@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Gustavo Duregger, I develop web and mobile apps thinking about the best user experience. I have already worked on projects with institutions such as Bayer and the Public Ministry of the State of São Paulo. I believe that with technology and innovation we can improve a better society, solve big problems and challenges today.
+My name is Gustavo Duregger, I develop web and mobile apps thinking about the best user experience. I have already worked on projects with institutions such as Bayer and Ministério Público do Estado de São Paulo. I believe that with technology and innovation we can improve a better society, solve big problems and challenges today.
 
 Below you can see some repositories of projects that I developed, have fun.
 
