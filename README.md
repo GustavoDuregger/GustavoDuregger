@@ -40,6 +40,6 @@ Below you can see some repositories of projects that I developed, have fun.
 [Anxious Game](https://github.com/GustavoDuregger/Anxious-Game)
 [PHP CRUD](https://github.com/GustavoDuregger/cadastroCliente)
 
-## Contributions to open source
+##### Contributions to open source
 :octocat: [HXL-CPLP](https://github.com/HXL-CPLP)
 :octocat: [IT Task Force: COVID-19 at CPLP](https://github.com/covid-taskforce-cplp)
