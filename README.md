@@ -10,7 +10,7 @@ Below you can see some repositories of projects that I developed, have fun.
 
 🐲[FIAP (concept application)](https://github.com/GustavoDuregger/fiap_aplication) - Concept application to assist professors.
 
-🤖[TheGoodBot](https://github.com/FIAPOS/the_good_bot) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages.
+🤖[TheGoodBot](https://github.com/GustavoDuregger/the_good_bot_public) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages.
 
 ##### Front-End, UX & UI Projects
 
@@ -23,6 +23,9 @@ Below you can see some repositories of projects that I developed, have fun.
 🚘 [C. Motorsport Website](https://github.com/GustavoDuregger/SiteCMotorsport) - Responsive website of Carvalho Motorsport
 
 ##### Java Projects
+
+🤖[TheGoodBot](https://github.com/GustavoDuregger/bot-mvc) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages.
+
 🚘[SmartParking](https://github.com/GustavoDuregger/SmartPark) - SmartPark is a project developed in JAVA using SPRING MVC to implement automated management in parking lots.
 
 🍽️[3SIAGourmet](https://github.com/FIAPOS/ComidaNacJava) - CRUD developed with Spring MVC
