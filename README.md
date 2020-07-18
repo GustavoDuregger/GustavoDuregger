@@ -4,11 +4,11 @@ My name is Gustavo Duregger, I develop web and mobile apps thinking about the be
 # [![Linkedin](https://img.shields.io/badge/-LinkedIn-242A2D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoduregger/)](https://www.linkedin.com/in/gustavoduregger/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gustavo.duregger)](https://medium.com/@gustavo.duregger) [![Lattes](https://img.shields.io/badge/-CNPqLattes-242A2D?style=flat-square&link=http://lattes.cnpq.br/7411070819178956)](http://lattes.cnpq.br/7411070819178956) 
 > Below you can see some of my main works, have fun.
 
-🌃[Borapp](https://play.google.com/store/apps/details?id=com.gduregger.borapp) - Application developed in Dart to help meet events and places around the city. **Available on Google Play** (Flutter)
+[Borapp](https://play.google.com/store/apps/details?id=com.gduregger.borapp) - Application developed in Dart to help meet events and places around the city. **Available on Google Play** (Flutter)
 
-🤖[TheGoodBot](https://github.com/GustavoDuregger/the_good_bot_public) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages. (Flutter)
+[TheGoodBot](https://github.com/GustavoDuregger/the_good_bot_public) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages. (Flutter)
 
-✏️[Prototypes](https://gist.github.com/GustavoDuregger/12f46da46badcab1fee358437d7e0bc4) (UX & UI)
+[Prototypes](https://gist.github.com/GustavoDuregger/12f46da46badcab1fee358437d7e0bc4) (UX & UI)
 
 [PS One concept](https://github.com/GustavoDuregger/psone) - Conceptual page using UI & UX techniques with with the playstation one aesthetic. (UX & UI, Front-End)
 
