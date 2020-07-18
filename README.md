@@ -12,8 +12,6 @@ My name is Gustavo Duregger, I develop web and mobile apps thinking about the be
 
 [PS One concept](https://github.com/GustavoDuregger/psone) - Conceptual page using UI & UX techniques with with the playstation one aesthetic. (UX & UI, Front-End)
 
-[TheGoodBot JAVA](https://github.com/GustavoDuregger/bot-mvc) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages. (JAVA)
-
 [SmartParking](https://github.com/GustavoDuregger/SmartPark) - SmartPark is a project developed in JAVA using SPRING MVC to implement automated management in parking lots. (JAVA)
 
 :octocat: [HXL-CPLP](https://github.com/HXL-CPLP)
