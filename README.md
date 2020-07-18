@@ -12,7 +12,7 @@ My name is Gustavo Duregger, I develop web and mobile apps thinking about the be
 
 [PS One concept](https://github.com/GustavoDuregger/psone) - Conceptual page using UI & UX techniques with with the playstation one aesthetic. (UX & UI, Front-End)
 
-[SmartParking](https://github.com/GustavoDuregger/SmartPark) - SmartPark is a project developed in JAVA using SPRING MVC to implement automated management in parking lots. (JAVA)
+[SmartParking](https://github.com/GustavoDuregger/SmartPark) - SmartParking is a project developed in JAVA using SPRING MVC to implement automated management in parking lots. (JAVA)
 
 :octocat: [HXL-CPLP](https://github.com/HXL-CPLP)
 [IT Task Force: COVID-19 at CPLP](https://github.com/covid-taskforce-cplp) (open source)
