@@ -8,6 +8,8 @@ My name is Gustavo Duregger, I develop web and mobile apps thinking about the be
 
 [TheGoodBot](https://github.com/GustavoDuregger/the_good_bot_public) - Application in order to remedy feelings of abandonment, loneliness, depression in periods of social isolation, in order to be accessible to users of all ages. (Flutter)
 
+[RecoEPI](https://github.com/GustavoDuregger/recoepi) - Machine Learning for Image Recognition with Flutter. (Flutter)
+
 [Prototypes](https://gist.github.com/GustavoDuregger/12f46da46badcab1fee358437d7e0bc4) (UX & UI)
 
 [PS One concept](https://github.com/GustavoDuregger/psone) - Conceptual page using UI & UX techniques with with the playstation one aesthetic. (UX & UI, Front-End)
