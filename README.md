@@ -2,7 +2,7 @@
 I develop web and mobile apps thinking about the best user experience. I have already worked on projects with institutions such as SAP, Bayer and Ministério Público do Estado de São Paulo. I believe that with technology and innovation we can improve a better society, solve big problems and challenges today.
 
 # [![Linkedin](https://img.shields.io/badge/-LinkedIn-242A2D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoduregger/)](https://www.linkedin.com/in/gustavoduregger/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gustavo.duregger)](https://medium.com/@gustavo.duregger) [![Lattes](https://img.shields.io/badge/-CNPqLattes-242A2D?style=flat-square&link=http://lattes.cnpq.br/7411070819178956)](http://lattes.cnpq.br/7411070819178956) 
-<img align="right" height="200" src="https://thumbs.gfycat.com/KaleidoscopicDamagedIrrawaddydolphin-size_restricted.gif">
+<img align="right" height="200" src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif">
 
 > Below you can see some of my main works, have fun.
 
