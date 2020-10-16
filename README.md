@@ -4,6 +4,7 @@ I develop web and mobile apps thinking about the best user experience. I have al
 # [![Linkedin](https://img.shields.io/badge/-LinkedIn-242A2D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoduregger/)](https://www.linkedin.com/in/gustavoduregger/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@gustavo.duregger)](https://medium.com/@gustavo.duregger) [![Lattes](https://img.shields.io/badge/-CNPqLattes-242A2D?style=flat-square&link=http://lattes.cnpq.br/7411070819178956)](http://lattes.cnpq.br/7411070819178956) 
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=GustavoDuregger&theme=tokyonight"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDuregger&layout=compact&hide=Jupyter+Notebook,html&theme=tokyonight)]()
 
 > Below you can see some of my main works, have fun.
