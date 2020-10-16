@@ -5,7 +5,9 @@ I develop web and mobile apps thinking about the best user experience. I have al
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=GustavoDuregger&theme=tokyonight"/>
 
+<p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDuregger&layout=compact&hide=Jupyter+Notebook,html&theme=tokyonight)]()
+<p/>
 
 > Below you can see some of my main works, have fun.
 
